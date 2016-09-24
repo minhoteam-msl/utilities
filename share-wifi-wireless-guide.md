@@ -17,7 +17,7 @@ $ sudo make install
 To run your WiFi network just do:
 ```
 $ sudo create_ap <interface\> <interface\> <SSID\> <PASSWORD\>
-Example: sudo create_ap wlan0 wlan0 lar \!zacarias.
+Example: sudo create_ap wlan0 wlan0 lar \password
 ```
 
 If it doesn't work right away, try to specify a different driver for the wireless using --driver <DRIVER\>.
@@ -26,7 +26,7 @@ Finally, to specify a range of IP's, you should provide de gateway address.
 
 ```
 $ sudo create_ap <interface\> <interface\> -g <gateway\> -d <SSID\> <PASSWORD\>
-Example: sudo create_ap wlan0 wlan0 -g 172.16.49.254 -d lar \!zacarias.
+Example: sudo create_ap wlan0 wlan0 -g 172.16.49.254 -d lar \password
 ```
 More info on create_ap README.md
 
