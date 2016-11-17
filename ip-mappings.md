@@ -11,7 +11,7 @@
 172.16.49.9 - Pedro Osório   
 172.16.49.10 - Ricardo Roriz   
 172.16.49.11 - Hélder Ribeiro   
-172.16.49.12 - Tiago Maia       
+172.16.49.12 - Nuno Braga      
 172.16.49.13 - Bruno Ribeiro   
 172.16.49.14 - André Pereira   
 172.16.49.15 - Álvaro Leite   
@@ -19,7 +19,7 @@
 172.16.49.17 - Inês Garcia   
 172.16.49.18 - Raquel Correia   
 172.16.49.19 - João Ribeiro   
-172.16.49.20 - Nuno Braga   
+172.16.49.20 - Tiago Maia    
 172.16.49.21 - João Ferreira   
 ------------------------------------||----------------------------------------   
 lar DNS Servers:   
